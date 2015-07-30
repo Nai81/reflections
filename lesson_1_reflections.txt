@@ -1,0 +1,29 @@
+Having easy access to an entire file history can make you a more efficient
+programer a number of different ways. First off it will allow you to keep track
+of all the changes you make so you have more freedom to expiriment. That way
+if you don't like a change you made, you can go back to an older version. It
+can be also used if you make a mistake. You can compare you current version
+with the bug to an older version to see where you misstepped. Keeping older
+version can also help you keep track of your thought and development process
+for later review so you can see how you think and work, and how you can
+improve yourself.
+
+	Git, unlike google docs and other version control systems, allows you
+to keep track of multiple files under the same commit because it is geared
+towards programming which often will use multiple files as a part of a single
+project. others that don't keep track of multiple files like this are usually
+geared towards projects where multiple files dont depend on eachother like
+they do with programming.
+
+	You can use git log to see all the times when and reasons why a
+project was saved, and can use git diff to compare different versions to see
+all the changes made between two versions.
+
+	Using Git version control makes me more confident about making changes
+that could break something because with it's log it makes it (relatively) easy
+to "checkout" (hyuk hyuk!) previous version to identify where a code may have
+broken down. In otherwords changes are not irreversible, and git makes it
+fairly easy to find the differences between changes.
+
+	I want to start trying to use git to make a little python (or java)
+adventure game! it should be an interesting and challenging project!
