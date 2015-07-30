@@ -7,4 +7,9 @@ working directory in that it provides a transitional state between the files
 you are working on and the previous status of your project that is being
 tracked in the repository. This allows you to control how you would like your
 changes to be tracked (say for example you edited multiple files with seperate
-logical changes, but forgot to commit in between.)  
+logical changes, but forgot to commit in between.)
+
+	You can use the staging area to insure you have 1 logical commit per
+change by comparing the file in your staging area to your most recent commit,
+and by comparing the file in your directory to your staging area to view all
+changes you have made since you last staged or commited a file.  
