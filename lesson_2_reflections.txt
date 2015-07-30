@@ -1,0 +1,10 @@
+	When you initialize a repository, git creates a hidden file where it
+will store the meta-data for all the commits you create in the future. You
+need to do this so that git has somewhere to store your commits.
+
+	The staging area in git is different from both the repository and the
+working directory in that it provides a transitional state between the files
+you are working on and the previous status of your project that is being
+tracked in the repository. This allows you to control how you would like your
+changes to be tracked (say for example you edited multiple files with seperate
+logical changes, but forgot to commit in between.)  
