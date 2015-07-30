@@ -12,4 +12,9 @@ logical changes, but forgot to commit in between.)
 	You can use the staging area to insure you have 1 logical commit per
 change by comparing the file in your staging area to your most recent commit,
 and by comparing the file in your directory to your staging area to view all
-changes you have made since you last staged or commited a file.  
+changes you have made since you last staged or commited a file. 
+
+	Creating branches helps keep your history organized by letting you
+sort and organize changes you don't necesarily think will work seperately from
+the version(s) you know will work i.e. searching for a faster way to run a
+program, changing version languages, experimenting with a new feature, etc...
