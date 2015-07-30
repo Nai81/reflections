@@ -18,3 +18,7 @@ changes you have made since you last staged or commited a file.
 sort and organize changes you don't necesarily think will work seperately from
 the version(s) you know will work i.e. searching for a faster way to run a
 program, changing version languages, experimenting with a new feature, etc...
+
+	Diagrams help you visualize branch structure by indicating where
+branches are in relation to eachother and which commits they have in common
+(where they "branch" off).
